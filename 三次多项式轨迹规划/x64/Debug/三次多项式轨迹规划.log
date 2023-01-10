@@ -1,0 +1,22 @@
+﻿  三次多项式轨迹规划.cpp
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(246,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(250,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(251,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(263,12): warning C4101: “k”: 未引用的局部变量
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(302,16): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(302,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(302,28): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(302,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(303,15): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(303,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(303,28): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(303,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(304,23): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(304,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(305,22): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(305,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(293,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(297,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(288,8): warning C4101: “a”: 未引用的局部变量
+D:\repos\三次多项式轨迹规划\三次多项式轨迹规划\三次多项式轨迹规划.cpp(287,8): warning C4101: “p”: 未引用的局部变量
+  三次多项式轨迹规划.vcxproj -> D:\repos\三次多项式轨迹规划\x64\Debug\三次多项式轨迹规划.exe
